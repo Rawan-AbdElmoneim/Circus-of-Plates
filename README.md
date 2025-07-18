@@ -2,7 +2,6 @@
 
 ## Overview
 Circus Plate Stacker is a single-player game where the player controls a clown who catches falling plates and stacks them. The goal is to collect three consecutive plates of the same color to make them vanish and increase the score. The game features different difficulty levels and implements several design patterns for efficient and maintainable code.
-![backgr](https://github.com/user-attachments/assets/89160ecc-d205-416c-b46d-e7fb4fcf8488)
 
 ## Technical Specifications
 - **Game Engine**: Built using `engine_v3.jar` library   
