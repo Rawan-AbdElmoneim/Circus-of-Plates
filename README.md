@@ -35,7 +35,7 @@ Circus Plate Stacker is a single-player game where the player controls a clown w
 - Observer pattern: Handles score updates  
 
 ### View
-- `NewJFrame`: Main menu for difficulty selection  
+- NewJFrame: Main menu for difficulty selection  
 
 ## How to Play
 1. Run the game from NewJFrame 
